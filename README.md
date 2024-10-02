@@ -10,4 +10,4 @@ I am primarily an experienced .NET and Typescript software engineer. These
 days I like to work with Nix and Rust. I get really excited about Linux, open
 source, terminals, text editors, plain text tools, and cryptids.
 
-I love to plan, test, and write everything in life.
+I love to plan, test, and write everything.
