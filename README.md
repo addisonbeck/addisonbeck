@@ -1,4 +1,4 @@
-### Howdy 👋
+### Howdy 🤠
 
 My name is Addison. I'm a husband, father of 4, and engineer/problem child
 [@bitwarden](https://github.com/bitwarden).
