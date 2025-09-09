@@ -1,3 +1,6 @@
+<img width="1584" height="396" alt="email-banner-register" src="https://github.com/user-attachments/assets/371d7991-b599-4667-8df4-8f22a1e3b322" />
+
+
 ### Howdy 🤠
 
 My name is Addison. I'm a husband, father of 4, and engineer/problem child
